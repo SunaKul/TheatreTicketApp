@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReyhanSunaKul_HW2</string>
+    <string name="headline">MOVIES AND THEATRES</string>
+    <string name="btn">Buy ticket / View tickets</string>
+    <string name="secondActivityTV">Click to catch gestures</string>
+    <string name="customerInfo">Ticket info of Customers for Movies/Theatres</string>
+</resources>
